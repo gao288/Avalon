@@ -1,8 +1,7 @@
 Project Nolava:
 
 Created by purdueofficial(AKA xufei gao) to provide a place where his friends can play avalon without using shitty softwares.
-
-intenal use only 
+ 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
